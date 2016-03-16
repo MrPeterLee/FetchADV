@@ -1,0 +1,18 @@
+D:\Dropbox\Projects\2014 - TR13F Project\ADV Data\Source Code\Adv Bot\Adv Bot\bin\Release\Adv Bot.exe.manifest
+D:\Dropbox\Projects\2014 - TR13F Project\ADV Data\Source Code\Adv Bot\Adv Bot\bin\Release\Adv Bot.application
+D:\Dropbox\Projects\2014 - TR13F Project\ADV Data\Source Code\Adv Bot\Adv Bot\bin\Release\Adv Bot.exe
+D:\Dropbox\Projects\2014 - TR13F Project\ADV Data\Source Code\Adv Bot\Adv Bot\bin\Release\Adv Bot.pdb
+D:\Dropbox\Projects\2014 - TR13F Project\ADV Data\Source Code\Adv Bot\Adv Bot\bin\Release\DevExpress.Images.v14.1.dll
+D:\Dropbox\Projects\2014 - TR13F Project\ADV Data\Source Code\Adv Bot\Adv Bot\obj\Release\Adv Bot.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projects\2014 - TR13F Project\ADV Data\Source Code\Adv Bot\Adv Bot\obj\Release\MainWindow.baml
+D:\Dropbox\Projects\2014 - TR13F Project\ADV Data\Source Code\Adv Bot\Adv Bot\obj\Release\MainWindow.g.cs
+D:\Dropbox\Projects\2014 - TR13F Project\ADV Data\Source Code\Adv Bot\Adv Bot\obj\Release\App.g.cs
+D:\Dropbox\Projects\2014 - TR13F Project\ADV Data\Source Code\Adv Bot\Adv Bot\obj\Release\Adv Bot_MarkupCompile.cache
+D:\Dropbox\Projects\2014 - TR13F Project\ADV Data\Source Code\Adv Bot\Adv Bot\obj\Release\Adv Bot.g.resources
+D:\Dropbox\Projects\2014 - TR13F Project\ADV Data\Source Code\Adv Bot\Adv Bot\obj\Release\Adv_Bot.Properties.Resources.resources
+D:\Dropbox\Projects\2014 - TR13F Project\ADV Data\Source Code\Adv Bot\Adv Bot\obj\Release\Adv Bot.csproj.GenerateResource.Cache
+D:\Dropbox\Projects\2014 - TR13F Project\ADV Data\Source Code\Adv Bot\Adv Bot\obj\Release\Adv Bot.exe.licenses
+D:\Dropbox\Projects\2014 - TR13F Project\ADV Data\Source Code\Adv Bot\Adv Bot\obj\Release\Adv Bot.exe.manifest
+D:\Dropbox\Projects\2014 - TR13F Project\ADV Data\Source Code\Adv Bot\Adv Bot\obj\Release\Adv Bot.application
+D:\Dropbox\Projects\2014 - TR13F Project\ADV Data\Source Code\Adv Bot\Adv Bot\obj\Release\Adv Bot.exe
+D:\Dropbox\Projects\2014 - TR13F Project\ADV Data\Source Code\Adv Bot\Adv Bot\obj\Release\Adv Bot.pdb
